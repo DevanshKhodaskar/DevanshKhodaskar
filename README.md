@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Genrative AI<br><br>👨‍💻 All of my projects are available at https://github.com/DevanshKhodaskar<br><br>💬 Ask me about Computer Vision,Machine Learning ,Genrative AI,Python<br><br>📫 How to reach me devanshkhodaskar870@gmail.com
+🌱 I’m currently learning Genrative AI<br><br>🎓 Pursuing B.Tech in Computer Science and Engineering (2nd Year)<br><br>👨‍💻 All of my projects are available at https://github.com/DevanshKhodaskar<br><br>💬 Ask me about Computer Vision,Machine Learning ,Genrative AI,Python<br><br>📫 How to reach me devanshkhodaskar870@gmail.com
 
 
 ## 🌐 Socials:
